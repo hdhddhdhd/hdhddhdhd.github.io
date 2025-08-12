@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>2025六年九班学生名单</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-08-12T05:09:45.802Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2025/08/12/hello-world/"/>
+    <id>http://example.com/2025/08/12/hello-world/</id>
+    <published>2025-08-12T04:47:25.898Z</published>
+    <updated>2025-08-12T05:09:45.802Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="六年九班名单"><a href="#六年九班名单" class="headerlink" title="六年九班名单"></a>六年九班名单</h2><p>程林坤–靳芳怡–王佳音–任美言</p><p>孙铭希–丛浩然–连伟涵–元一朵</p><p>张   尧–于德硕–王子默–柳宇航</p><p>姜惟川–卞泽鸣–刘子萌–姜伊宁</p><p>郭妍悦–董晨文博–郭沫彤–王昕蕾</p><p>祖语涵–赵宇博–张鑫睿–张钰涵</p><p>姜子棋–李浩轩–毕佳–王鑫蕊</p><p>柳博元–张书灏–王钰珏–聂曦彤</p><p>林祺程–丁文博–金浩然–施海凤</p><p>王栋坤–李俊豪–刘思彤–荣念成</p><p>限时人物：朱子墨(五年级转学)，王闯，宗熙昊</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;六年九班名单&quot;&gt;&lt;a href=&quot;#六年九班名单&quot; class=&quot;headerlink&quot; title=&quot;六年九班名单&quot;&gt;&lt;/a&gt;六年九班名单&lt;/h2&gt;&lt;p&gt;程林坤–靳芳怡–王佳音–任美言&lt;/p&gt;
+&lt;p&gt;孙铭希–丛浩然–连伟涵–元一朵&lt;/p&gt;
+&lt;p&gt;张  </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
